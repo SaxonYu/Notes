@@ -1,0 +1,11 @@
+{
+  "accentColor": "",
+  "enabledCssSnippets": [
+    "header_indentation"
+  ],
+  "textFontFamily": "Times New Roman",
+  "baseFontSize": 21,
+  "theme": "obsidian",
+  "cssTheme": "Minimal",
+  "translucency": false
+}

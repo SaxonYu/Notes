@@ -1,0 +1,42 @@
+/* Preview Mode */
+.markdown-preview-view h1,
+.cm-s-obsidian .cm-header-1 {  /* Adjusting for Obsidian's theme */
+    font-size: 2em !important;
+    font-weight: 700 !important;
+    margin-bottom: 0.5em !important;
+}
+
+.markdown-preview-view h2,
+.cm-s-obsidian .cm-header-2 {
+    font-size: 1.75em !important;
+    font-weight: 600 !important;
+    margin-bottom: 0.5em !important;
+}
+
+.markdown-preview-view h3,
+.cm-s-obsidian .cm-header-3 {
+    font-size: 1.5em !important;
+    font-weight: 500 !important;
+    margin-bottom: 0.5em !important;
+}
+
+.markdown-preview-view h4,
+.cm-s-obsidian .cm-header-4 {
+    font-size: 1.25em !important;
+    font-weight: 400 !important;
+    margin-bottom: 0.5em !important;
+}
+
+.markdown-preview-view h5,
+.cm-s-obsidian .cm-header-5 {
+    font-size: 1.1em !important;
+    font-weight: 300 !important;
+    margin-bottom: 0.5em !important;
+}
+
+.markdown-preview-view h6,
+.cm-s-obsidian .cm-header-6 {
+    font-size: 1em !important;
+    font-weight: 200 !important;
+    margin-bottom: 0.5em !important;
+}
