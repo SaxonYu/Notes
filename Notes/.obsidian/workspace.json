@@ -8,19 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7c3a599711173ffd",
+            "id": "6001ff6dc449bcdd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pentesting/Reports/OSCP/Challenge Labs/Situational Awareness.md",
+                "file": "Pentesting/Reports/OSCP/Challenge Labs/Medtech/Situational Awareness.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "fde57c7323b69d7f",
+            "id": "9c328fa36fdfb31c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -32,19 +32,19 @@
             }
           },
           {
-            "id": "b933a2658bbe3cc8",
+            "id": "dc49d174dd3589a8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pentesting/Reports/HTB Notes/Linux/1-Easy/Bashed.md",
+                "file": "Pentesting/Learning Notes/AD Tools.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "aef56934409287fa",
+            "id": "62f3bbdd9bc7ad43",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -106,7 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 233.5
   },
   "right": {
     "id": "60c70c0fdf463baf",
@@ -122,24 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pentesting/Reports/HTB Notes/Linux/1-Easy/Bashed.md"
-              }
-            }
-          },
-          {
-            "id": "59df9c01382ed0fd",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Pentesting/Reports/HTB Notes/Linux/1-Easy/Bashed.md",
-                "collapseAll": true,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
+                "file": "Pentesting/Learning Notes/AD Tools.md"
               }
             }
           },
@@ -155,19 +138,36 @@
             }
           },
           {
-            "id": "71b95e3712877011",
+            "id": "b894ca01b4a76737",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Pentesting/Learning Notes/AD Tools.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d37b3d0f66a6eb1d",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pentesting/Reports/HTB Notes/Linux/1-Easy/Bashed.md",
+                "file": "Pentesting/Learning Notes/AD Tools.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "16fb41667de10a46",
+            "id": "0ff72bf575b2e0bc",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -194,54 +194,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "317c0c849134f66d",
+  "active": "dc49d174dd3589a8",
   "lastOpenFiles": [
-    "Pentesting/Learning Notes/AD Tools.md",
     "Pentesting/Learning Notes/Tools.md",
+    "Pentesting/Reports/OSCP/Challenge Labs/Medtech/DMZ/10.md",
+    "Pasted image 20240218145937.png",
+    "Pentesting/Learning Notes/AD Tools.md",
     "Pentesting/Learning Notes/Techniques.md",
-    "Pentesting/Reports/OSCP/Challenge Labs/Situational Awareness.md",
+    "Pentesting/Reports/OSCP/Challenge Labs/Medtech/Situational Awareness.md",
+    "Pentesting/Reports/OSCP/Challenge Labs/Medtech/DMZ/12.md",
+    "Pasted image 20240218124445.png",
+    "Pentesting/Reports/OSCP/Challenge Labs/Medtech/DMZ/82.md",
+    "Pasted image 20240217210119.png",
+    "Screenshots/Pasted image 20240217184230.png",
+    "Screenshots/Pasted image 20240217204356.png",
+    "Pasted image 20240217204132.png",
+    "Pentesting/Reports/OSCP/Challenge Labs/Medtech/DMZ/83.md",
+    "Pentesting/Reports/OSCP/Challenge Labs/Medtech/DMZ/122.md",
+    "Pentesting/Reports/OSCP/Challenge Labs/Medtech/DMZ/121.md",
+    "Screenshots/Pasted image 20240217202336.png",
+    "Screenshots/Pasted image 20240217202034.png",
+    "Screenshots/Pasted image 20240217200616.png",
+    "Pentesting/Reports/OSCP/Challenge Labs/OSCP B/AD/Attack Path.md",
+    "Pentesting/Reports/OSCP/Challenge Labs/OSCP B/Standalone/151.md",
+    "Screenshots/Pasted image 20240217183017.png",
+    "Pentesting/Reports/OSCP/Challenge Labs/OSCP B/AD/Situational Awareness.md",
+    "Pentesting/Reports/OSCP/Capstones/SQLi VM 4.md",
+    "Pentesting/Reports/OSCP/Challenge Labs/OSCP B/AD",
+    "Pentesting/Learning Notes/OSCP Notes.md",
+    "Pentesting/Reports/OSCP/Challenge Labs/OSCP B/Standalone/150.md",
+    "Pentesting/Reports/OSCP/Challenge Labs/OSCP B/Standalone/149.md",
+    "Pentesting/Reports/OSCP/Challenge Labs/OSCP B/Standalone",
+    "Pentesting/Reports/OSCP/Challenge Labs/OSCP B",
+    "Pentesting/Reports/OSCP/Challenge Labs/OSCP A/AD/Situational Awareness.md",
+    "Pentesting/Reports/OSCP/Challenge Labs/OSCP A/AD/Attack Path.md",
+    "Pentesting/Reports/OSCP/Challenge Labs/OSCP A/AD/140 DC.md",
+    "Pentesting/Reports/OSCP/Challenge Labs/OSCP A/AD/141.md",
     "Pentesting/Reports/OSCP/Challenge Labs/Medtech/Internal/11.md",
     "Pentesting/Reports/OSCP/Challenge Labs/Medtech/Internal/14.md",
-    "Pentesting/Reports/OSCP/Challenge Labs/Medtech/DMZ/121.md",
-    "Pentesting/Reports/OSCP/Challenge Labs/Medtech/DMZ/122.md",
-    "Pasted image 20240213214429.png",
-    "Pasted image 20240213211044.png",
-    "Pasted image 20240213210621.png",
-    "Reports/OSCP/Challenge Labs/credentials.md",
-    "Screenshots/Pasted image 20240213200825.png",
-    "Screenshots/Pasted image 20240212201416.png",
-    "Pentesting/Reports/OSCP/Challenge Labs/Tunneling.md",
-    "Reports/OSCP/Challenge Labs/Internal/Untitled",
+    "Pentesting/Reports/OSCP/Challenge Labs/OSCP A/AD/142",
+    "Pentesting/Reports/OSCP/Challenge Labs/OSCP A/Standalone/144.md",
+    "Pentesting/Reports/OSCP/Challenge Labs/OSCP A/Standalone/143.md",
+    "Pentesting/Reports/OSCP/Challenge Labs/OSCP A/Standalone",
+    "Pentesting/Reports/OSCP/Challenge Labs/OSCP A/AD",
+    "Pentesting/Reports/OSCP/Challenge Labs/OSCP A",
+    "Screenshots",
     "Pentesting/Reports/OSCP/Challenge Labs/Medtech/Internal",
-    "Screenshots/Pasted image 20240213162542.png",
-    "Screenshots/Pasted image 20240213162102.png",
-    "Screenshots/Pasted image 20240213161912.png",
-    "Screenshots/Pasted image 20240213161747.png",
-    "Interview Tips/interview-study-notes-for-security-engineering.md",
-    "Untitled.canvas",
-    "Pentesting/Learning Notes/SQL Injection.md",
-    "Screenshots/Pasted image 20240212203338.png",
-    "Pentesting/Reports/OSCP/Capstones/SQLi VM 4.md",
     "Pentesting/Reports/OSCP/Challenge Labs/Medtech/DMZ",
-    "Pentesting/Learning Notes/OSCP Notes.md",
-    "Pentesting/Reports/OSCP/Capstones/SQLi VM 3.md",
-    "Pentesting/Reports/OSCP/Capstones/SQLi VM 2.md",
-    "Pentesting/Reports/OSCP/Capstones/SQLi VM 1.md",
-    "Pentesting/Reports/OSCP/Capstones/AD Authentication Capstone 2.md",
-    "Pentesting/Reports/OSCP/Challenge Labs/Medtech",
-    "Pentesting/Reports/OSCP/Challenge Labs/beyond/Credentials.md",
-    "Pentesting/Reports/OSCP/Challenge Labs/beyond/Internal/Situational Awareness.md",
-    "Pentesting/Reports/OSCP/Challenge Labs/beyond/DMZ/242.md",
-    "Pentesting/Reports/OSCP/Challenge Labs/beyond/DMZ/244.md",
-    "Pentesting/Reports/HTB Notes/Linux/1-Easy/Valentine.md",
-    "Pentesting/Reports/OSCP/Challenge Labs/beyond/Internal",
-    "Pentesting/Reports/OSCP/Challenge Labs/beyond/DMZ",
-    "Pentesting/Reports/OSCP/Capstones/AD Authentication Capstone 1.md",
-    "Pentesting/Reports/OSCP/Challenge Labs/beyond",
-    "Pentesting/Reports/OSCP",
-    "Pentesting/Reports/OSCP/Challenge Labs",
-    "Pentesting/Reports/OSCP/Capstones/AD Enumeration Capstone.md",
-    "Pentesting/Learning Notes/AD Techniques.md",
-    "Untitled"
+    "Untitled.canvas"
   ]
 }
