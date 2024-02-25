@@ -8,38 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6001ff6dc449bcdd",
+            "id": "209697f11d344739",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pentesting/Reports/OSCP/Challenge Labs/Medtech/Situational Awareness.md",
+                "file": "Pentesting/Reports/OSCP/Challenge Labs/Relia/DMZ/246.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "9c328fa36fdfb31c",
+            "id": "acf48b2877557bf3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Pentesting/Learning Notes/Tools.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dc49d174dd3589a8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Pentesting/Learning Notes/AD Tools.md",
-                "mode": "source",
-                "source": false
+                "file": "Screenshots/Pasted image 20240224185347.png"
               }
             }
           },
@@ -56,7 +42,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -122,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pentesting/Learning Notes/AD Tools.md"
+                "file": "Screenshots/Pasted image 20240224185347.png"
               }
             }
           },
@@ -143,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pentesting/Learning Notes/AD Tools.md",
+                "file": "Screenshots/Pasted image 20240224185347.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pentesting/Learning Notes/AD Tools.md",
+                "file": "Screenshots/Pasted image 20240224185347.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,53 +180,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "dc49d174dd3589a8",
+  "active": "317c0c849134f66d",
   "lastOpenFiles": [
-    "Pentesting/Learning Notes/Tools.md",
-    "Pentesting/Reports/OSCP/Challenge Labs/Medtech/DMZ/10.md",
-    "Pasted image 20240218145937.png",
+    "Screenshots/Pasted image 20240223192503.png",
+    "Screenshots/Pasted image 20240223193313.png",
     "Pentesting/Learning Notes/AD Tools.md",
     "Pentesting/Learning Notes/Techniques.md",
-    "Pentesting/Reports/OSCP/Challenge Labs/Medtech/Situational Awareness.md",
-    "Pentesting/Reports/OSCP/Challenge Labs/Medtech/DMZ/12.md",
-    "Pasted image 20240218124445.png",
-    "Pentesting/Reports/OSCP/Challenge Labs/Medtech/DMZ/82.md",
-    "Pasted image 20240217210119.png",
-    "Screenshots/Pasted image 20240217184230.png",
-    "Screenshots/Pasted image 20240217204356.png",
-    "Pasted image 20240217204132.png",
-    "Pentesting/Reports/OSCP/Challenge Labs/Medtech/DMZ/83.md",
-    "Pentesting/Reports/OSCP/Challenge Labs/Medtech/DMZ/122.md",
-    "Pentesting/Reports/OSCP/Challenge Labs/Medtech/DMZ/121.md",
-    "Screenshots/Pasted image 20240217202336.png",
-    "Screenshots/Pasted image 20240217202034.png",
-    "Screenshots/Pasted image 20240217200616.png",
-    "Pentesting/Reports/OSCP/Challenge Labs/OSCP B/AD/Attack Path.md",
-    "Pentesting/Reports/OSCP/Challenge Labs/OSCP B/Standalone/151.md",
-    "Screenshots/Pasted image 20240217183017.png",
-    "Pentesting/Reports/OSCP/Challenge Labs/OSCP B/AD/Situational Awareness.md",
-    "Pentesting/Reports/OSCP/Capstones/SQLi VM 4.md",
-    "Pentesting/Reports/OSCP/Challenge Labs/OSCP B/AD",
-    "Pentesting/Learning Notes/OSCP Notes.md",
-    "Pentesting/Reports/OSCP/Challenge Labs/OSCP B/Standalone/150.md",
+    "Pentesting/Reports/OSCP/Challenge Labs/Relia/DMZ/246.md",
+    "Pentesting/Reports/OSCP/Challenge Labs/Relia/DMZ/247.md",
+    "Pentesting/Reports/OSCP/Challenge Labs/Relia/Internal/30.md",
+    "Pentesting/Learning Notes/Tools.md",
+    "Pentesting/Reports/OSCP/Challenge Labs/Relia/DMZ/245.md",
+    "Screenshots/Pasted image 20240224185347.png",
+    "Screenshots/Pasted image 20240224185207.png",
+    "Pentesting/Reports/OSCP/Challenge Labs/Situational Awareness.md",
+    "Screenshots/Pasted image 20240224181248.png",
+    "Pentesting/Reports/OSCP/Challenge Labs/Relia/Internal/21.md",
+    "Screenshots/Pasted image 20240224180528.png",
+    "Screenshots/Pasted image 20240224180110.png",
+    "Pentesting/Reports/OSCP/Challenge Labs/Relia/Internal/15.md",
+    "Pentesting/Reports/OSCP/Challenge Labs/Relia/Internal/14.md",
+    "Pentesting/Reports/OSCP/Challenge Labs/Relia/Internal/7.md",
+    "Pentesting/Reports/OSCP/Challenge Labs/Relia/Internal/6.md",
+    "Pentesting/Reports/OSCP/Challenge Labs/Relia/Internal/20.md",
+    "Pentesting/Reports/OSCP/Challenge Labs/Relia/DMZ/191.md",
+    "Pentesting/Reports/OSCP/Challenge Labs/Relia/Internal/19.md",
+    "Screenshots/Pasted image 20240223132504.png",
+    "Screenshots/Pasted image 20240223113117.png",
+    "Screenshots/Pasted image 20240223113652.png",
     "Pentesting/Reports/OSCP/Challenge Labs/OSCP B/Standalone/149.md",
+    "Pentesting/Reports/OSCP/Challenge Labs/OSCP B/Standalone/150.md",
+    "Pentesting/Reports/OSCP/Challenge Labs/OSCP B/Standalone/151.md",
+    "Pentesting/Reports/OSCP/Challenge Labs/Medtech/Situational Awareness.md",
+    "Pentesting/Reports/OSCP/Challenge Labs/Medtech/Internal/11.md",
+    "Pentesting/Reports/OSCP/Challenge Labs/Medtech/Internal/10.md",
+    "Pentesting/Reports/OSCP/Challenge Labs/Medtech/Tunneling.md",
+    "Pentesting/Reports/OSCP/Challenge Labs/Medtech/Internal/14.md",
+    "Pentesting/Reports/OSCP/Challenge Labs/Medtech/Internal/83.md",
+    "Pentesting/Reports/OSCP/Challenge Labs/Relia/Internal",
+    "Pentesting/Reports/OSCP/Challenge Labs/Relia/DMZ",
+    "Pentesting/Reports/OSCP/Challenge Labs/Relia",
+    "Pentesting/Reports/OSCP/Challenge Labs/OSCP B/AD",
     "Pentesting/Reports/OSCP/Challenge Labs/OSCP B/Standalone",
     "Pentesting/Reports/OSCP/Challenge Labs/OSCP B",
-    "Pentesting/Reports/OSCP/Challenge Labs/OSCP A/AD/Situational Awareness.md",
-    "Pentesting/Reports/OSCP/Challenge Labs/OSCP A/AD/Attack Path.md",
-    "Pentesting/Reports/OSCP/Challenge Labs/OSCP A/AD/140 DC.md",
-    "Pentesting/Reports/OSCP/Challenge Labs/OSCP A/AD/141.md",
-    "Pentesting/Reports/OSCP/Challenge Labs/Medtech/Internal/11.md",
-    "Pentesting/Reports/OSCP/Challenge Labs/Medtech/Internal/14.md",
     "Pentesting/Reports/OSCP/Challenge Labs/OSCP A/AD/142",
-    "Pentesting/Reports/OSCP/Challenge Labs/OSCP A/Standalone/144.md",
-    "Pentesting/Reports/OSCP/Challenge Labs/OSCP A/Standalone/143.md",
     "Pentesting/Reports/OSCP/Challenge Labs/OSCP A/Standalone",
     "Pentesting/Reports/OSCP/Challenge Labs/OSCP A/AD",
     "Pentesting/Reports/OSCP/Challenge Labs/OSCP A",
-    "Screenshots",
-    "Pentesting/Reports/OSCP/Challenge Labs/Medtech/Internal",
-    "Pentesting/Reports/OSCP/Challenge Labs/Medtech/DMZ",
     "Untitled.canvas"
   ]
 }
