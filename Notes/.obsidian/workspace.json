@@ -4,33 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "123976e52e779cce",
+        "id": "e0bbcbdc9c64e111",
         "type": "tabs",
         "children": [
           {
-            "id": "209697f11d344739",
+            "id": "215e7ad8f75a711b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pentesting/Reports/OSCP/Challenge Labs/Relia/DMZ/246.md",
+                "file": "Pentesting/Reports/HTB Notes/Linux/1-Easy/Busqueda.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "acf48b2877557bf3",
+            "id": "0355b1fdce76896e",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Screenshots/Pasted image 20240224185347.png"
+                "file": "Pentesting/Learning Notes/Tools.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
           {
-            "id": "62f3bbdd9bc7ad43",
+            "id": "eb58337b4e75964a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pentesting/Learning Notes/AD Tools.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "931a0832231a3ce4",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -42,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -72,7 +86,7 @@
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": true,
+                "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -92,23 +106,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 233.5
+    "width": 200
   },
   "right": {
     "id": "60c70c0fdf463baf",
     "type": "split",
     "children": [
       {
-        "id": "049230a8885c7b05",
+        "id": "7756cf7584abad0d",
         "type": "tabs",
         "children": [
           {
-            "id": "90d64bda9272a08d",
+            "id": "b08337246edcc0be",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Screenshots/Pasted image 20240224185347.png"
+                "file": "Pentesting/Learning Notes/Techniques.md"
               }
             }
           },
@@ -124,12 +138,12 @@
             }
           },
           {
-            "id": "b894ca01b4a76737",
+            "id": "3876600d7b4187c4",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Screenshots/Pasted image 20240224185347.png",
+                "file": "Pentesting/Learning Notes/Techniques.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,19 +155,19 @@
             }
           },
           {
-            "id": "d37b3d0f66a6eb1d",
+            "id": "72b5c19c6c15e255",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Screenshots/Pasted image 20240224185347.png",
+                "file": "Pentesting/Learning Notes/Techniques.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "0ff72bf575b2e0bc",
+            "id": "9e45558018380c1a",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -180,24 +194,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "317c0c849134f66d",
+  "active": "931a0832231a3ce4",
   "lastOpenFiles": [
-    "Screenshots/Pasted image 20240223192503.png",
-    "Screenshots/Pasted image 20240223193313.png",
+    "Pentesting/Learning Notes/Tools.md",
     "Pentesting/Learning Notes/AD Tools.md",
+    "Pentesting/Reports/HTB Notes/Linux/1-Easy/Busqueda.md",
+    "Pasted image 20240228212836.png",
+    "Pentesting/Reports/HTB Notes/Windows/2-Medium/Jeeves.md",
     "Pentesting/Learning Notes/Techniques.md",
+    "Pasted image 20240228134455.png",
+    "Pasted image 20240228133512.png",
+    "Pasted image 20240228133449.png",
+    "Pasted image 20240228133141.png",
+    "Pasted image 20240228133044.png",
+    "Pentesting/Reports/HTB Notes/Linux/1-Easy/Nibbles.md",
+    "Pentesting/Reports/HTB Notes/Linux/2-Medium/UpDown.md",
+    "Screenshots/Pasted image 20240227221026.png",
+    "Pentesting/Learning Notes/OSCP Notes.md",
+    "Screenshots/Pasted image 20240227215840.png",
+    "Screenshots/Pasted image 20240227213602.png",
+    "Screenshots/Pasted image 20240227212624.png",
+    "Pentesting/Reports/HTB Notes/Linux/2-Medium/TartarSauce.md",
+    "Pentesting/Learning Notes/Reverse Engineering.md",
+    "Pentesting/Learning Notes/Personal Methodologies.md",
     "Pentesting/Reports/OSCP/Challenge Labs/Relia/DMZ/246.md",
     "Pentesting/Reports/OSCP/Challenge Labs/Relia/DMZ/247.md",
     "Pentesting/Reports/OSCP/Challenge Labs/Relia/Internal/30.md",
-    "Pentesting/Learning Notes/Tools.md",
     "Pentesting/Reports/OSCP/Challenge Labs/Relia/DMZ/245.md",
-    "Screenshots/Pasted image 20240224185347.png",
-    "Screenshots/Pasted image 20240224185207.png",
     "Pentesting/Reports/OSCP/Challenge Labs/Situational Awareness.md",
-    "Screenshots/Pasted image 20240224181248.png",
     "Pentesting/Reports/OSCP/Challenge Labs/Relia/Internal/21.md",
-    "Screenshots/Pasted image 20240224180528.png",
-    "Screenshots/Pasted image 20240224180110.png",
     "Pentesting/Reports/OSCP/Challenge Labs/Relia/Internal/15.md",
     "Pentesting/Reports/OSCP/Challenge Labs/Relia/Internal/14.md",
     "Pentesting/Reports/OSCP/Challenge Labs/Relia/Internal/7.md",
@@ -205,18 +230,7 @@
     "Pentesting/Reports/OSCP/Challenge Labs/Relia/Internal/20.md",
     "Pentesting/Reports/OSCP/Challenge Labs/Relia/DMZ/191.md",
     "Pentesting/Reports/OSCP/Challenge Labs/Relia/Internal/19.md",
-    "Screenshots/Pasted image 20240223132504.png",
-    "Screenshots/Pasted image 20240223113117.png",
-    "Screenshots/Pasted image 20240223113652.png",
     "Pentesting/Reports/OSCP/Challenge Labs/OSCP B/Standalone/149.md",
-    "Pentesting/Reports/OSCP/Challenge Labs/OSCP B/Standalone/150.md",
-    "Pentesting/Reports/OSCP/Challenge Labs/OSCP B/Standalone/151.md",
-    "Pentesting/Reports/OSCP/Challenge Labs/Medtech/Situational Awareness.md",
-    "Pentesting/Reports/OSCP/Challenge Labs/Medtech/Internal/11.md",
-    "Pentesting/Reports/OSCP/Challenge Labs/Medtech/Internal/10.md",
-    "Pentesting/Reports/OSCP/Challenge Labs/Medtech/Tunneling.md",
-    "Pentesting/Reports/OSCP/Challenge Labs/Medtech/Internal/14.md",
-    "Pentesting/Reports/OSCP/Challenge Labs/Medtech/Internal/83.md",
     "Pentesting/Reports/OSCP/Challenge Labs/Relia/Internal",
     "Pentesting/Reports/OSCP/Challenge Labs/Relia/DMZ",
     "Pentesting/Reports/OSCP/Challenge Labs/Relia",
