@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "215e7ad8f75a711b",
+            "id": "e4f2256aad9b93ea",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,7 +20,7 @@
             }
           },
           {
-            "id": "0355b1fdce76896e",
+            "id": "5cfd5e22cf2b7da3",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -54,9 +54,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d3bc1168131b76f4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pentesting/Learning Notes/SQL Injection.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -122,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pentesting/Learning Notes/Techniques.md"
+                "file": "Pentesting/Learning Notes/SQL Injection.md"
               }
             }
           },
@@ -143,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pentesting/Learning Notes/Techniques.md",
+                "file": "Pentesting/Learning Notes/SQL Injection.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pentesting/Learning Notes/Techniques.md",
+                "file": "Pentesting/Learning Notes/SQL Injection.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,26 +206,31 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "931a0832231a3ce4",
+  "active": "d3bc1168131b76f4",
   "lastOpenFiles": [
-    "Pentesting/Learning Notes/Tools.md",
-    "Pentesting/Learning Notes/AD Tools.md",
-    "Pentesting/Reports/HTB Notes/Linux/1-Easy/Busqueda.md",
-    "Pasted image 20240228212836.png",
-    "Pentesting/Reports/HTB Notes/Windows/2-Medium/Jeeves.md",
+    "Pentesting/Learning Notes/OSCP Notes.md",
     "Pentesting/Learning Notes/Techniques.md",
-    "Pasted image 20240228134455.png",
-    "Pasted image 20240228133512.png",
-    "Pasted image 20240228133449.png",
-    "Pasted image 20240228133141.png",
-    "Pasted image 20240228133044.png",
+    "Pentesting/Reports/HTB Notes/Linux/1-Easy/Busqueda.md",
+    "Pentesting/Learning Notes/Tools.md",
+    "Pentesting/Reports/HTB Notes/Windows/2-Medium/Escape.md",
+    "Pentesting/Learning Notes/AD Tools.md",
+    "Pasted image 20240302193035.png",
+    "Pasted image 20240302172918.png",
+    "Pasted image 20240302172916.png",
+    "Pasted image 20240302170418.png",
+    "Pasted image 20240302155207.png",
+    "Pasted image 20240302155036.png",
+    "Pasted image 20240302152935.png",
+    "Pasted image 20240302152340.png",
+    "Pasted image 20240302145354.png",
+    "Pasted image 20240302142447.png",
+    "Pentesting/Reports/HTB Notes/Linux/1-Easy/Valentine.md",
+    "Pentesting/Reports/HTB Notes/Linux/1-Easy/Sense.md",
     "Pentesting/Reports/HTB Notes/Linux/1-Easy/Nibbles.md",
     "Pentesting/Reports/HTB Notes/Linux/2-Medium/UpDown.md",
-    "Screenshots/Pasted image 20240227221026.png",
-    "Pentesting/Learning Notes/OSCP Notes.md",
-    "Screenshots/Pasted image 20240227215840.png",
-    "Screenshots/Pasted image 20240227213602.png",
-    "Screenshots/Pasted image 20240227212624.png",
+    "Pentesting/Reports/HTB Notes/Windows/2-Medium/Jeeves.md",
+    "Pentesting/Reports/HTB Notes/Linux/2-Medium/Nineveh.md",
+    "Pentesting/Reports/HTB Notes/Linux/2-Medium/Cronos.md",
     "Pentesting/Reports/HTB Notes/Linux/2-Medium/TartarSauce.md",
     "Pentesting/Learning Notes/Reverse Engineering.md",
     "Pentesting/Learning Notes/Personal Methodologies.md",
@@ -226,11 +243,6 @@
     "Pentesting/Reports/OSCP/Challenge Labs/Relia/Internal/15.md",
     "Pentesting/Reports/OSCP/Challenge Labs/Relia/Internal/14.md",
     "Pentesting/Reports/OSCP/Challenge Labs/Relia/Internal/7.md",
-    "Pentesting/Reports/OSCP/Challenge Labs/Relia/Internal/6.md",
-    "Pentesting/Reports/OSCP/Challenge Labs/Relia/Internal/20.md",
-    "Pentesting/Reports/OSCP/Challenge Labs/Relia/DMZ/191.md",
-    "Pentesting/Reports/OSCP/Challenge Labs/Relia/Internal/19.md",
-    "Pentesting/Reports/OSCP/Challenge Labs/OSCP B/Standalone/149.md",
     "Pentesting/Reports/OSCP/Challenge Labs/Relia/Internal",
     "Pentesting/Reports/OSCP/Challenge Labs/Relia/DMZ",
     "Pentesting/Reports/OSCP/Challenge Labs/Relia",
