@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "771a4d6b754b1f49",
+            "id": "e4f2256aad9b93ea",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pentesting/Learning Notes/Tools.md",
+                "file": "Pentesting/Learning Notes/SQL Injection.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,14 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pentesting/Learning Notes/AD Tools.md",
+                "file": "Pentesting/Reports/HTB Notes/Windows/2-Medium/Jeeves.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "362af1041ce9ee6e",
+            "id": "931a0832231a3ce4",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pentesting/Learning Notes/Tools.md"
+                "file": "Pentesting/Learning Notes/SQL Injection.md"
               }
             }
           },
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pentesting/Learning Notes/Tools.md",
+                "file": "Pentesting/Learning Notes/SQL Injection.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pentesting/Learning Notes/Tools.md",
+                "file": "Pentesting/Learning Notes/SQL Injection.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -181,44 +181,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "317c0c849134f66d",
+  "active": "e4f2256aad9b93ea",
   "lastOpenFiles": [
+    "Pentesting/Reports/OSCP/Challenge Labs/OSCP B/AD/Attack Path.md",
+    "Pentesting/Learning Notes/Techniques.md",
+    "Pentesting/Reports/HTB Notes/Windows/2-Medium/Jeeves.md",
+    "Pentesting/Reports/HTB Notes/Windows/2-Medium/!!StreamIO.md",
+    "Pentesting/Reports/HTB Notes/Windows/2-Medium/!!Intelligence.md",
+    "Pentesting/Reports/HTB Notes/Linux/2-Medium/!!Hawk.md",
+    "Pentesting/Reports/HTB Notes/Linux/2-Medium/!October.md",
+    "Pentesting/Reports/HTB Notes/Linux/2-Medium/!!DevOops.md",
+    "Pentesting/Reports/HTB Notes/Windows/1- Easy/!!Support.md",
+    "Pentesting/Reports/HTB Notes/Windows/1- Easy/!!Servmon.md",
+    "Pentesting/Learning Notes/AD Tools.md",
+    "Pentesting/Learning Notes/Tools.md",
+    "Pentesting/Reports/OSCP/Challenge Labs/OSCP B/AD/Situational Awareness.md",
+    "Pentesting/Reports/HTB Notes/Windows/2-Medium/Escape.md",
+    "Pentesting/Reports/HTB Notes/Linux/1-Easy/Broker.md",
+    "Pasted image 20240305152304.png",
+    "Pasted image 20240305133555.png",
+    "Pasted image 20240305133355.png",
+    "Pasted image 20240305131956.png",
+    "Pasted image 20240305131823.png",
+    "Pasted image 20240305131223.png",
+    "Pentesting/Reports/HTB Notes/Linux/1-Easy/Bashed.md",
+    "Pentesting/Reports/HTB Notes/Template.md",
+    "Pentesting/Reports/HTB Notes/Linux/1-Easy/Busqueda.md",
+    "Pentesting/Learning Notes/SQL Injection.md",
     "Screenshots/Pasted image 20240304155945.png",
     "Screenshots/Pasted image 20240304152435.png",
     "Screenshots/Pasted image 20240304152150.png",
     "Screenshots/Pasted image 20240304124439.png",
-    "Screenshots/Pasted image 20240304124437.png",
-    "Screenshots/Pasted image 20240304124354.png",
-    "Screenshots/Pasted image 20240304122937.png",
-    "Screenshots/Pasted image 20240304122307.png",
-    "Screenshots/Pasted image 20240303211937.png",
-    "Screenshots/Pasted image 20240303211015.png",
-    "Screenshots/Pasted image 20240303211007.png",
-    "Pentesting/Reports/HTB Notes/Windows/1- Easy/Forest.md",
-    "Pentesting/Learning Notes/AD Tools.md",
-    "Pentesting/Learning Notes/Techniques.md",
-    "Pentesting/Learning Notes/Tools.md",
-    "Pentesting/Reports/HTB Notes/Template.md",
-    "Pentesting/Reports/HTB Notes/Windows/2-Medium/!!StreamIO.md",
-    "Pentesting/Reports/HTB Notes/Linux/1-Easy/!!Soccer.md",
-    "Pentesting/Reports/HTB Notes/Linux/3-Hard/!!Intentions.md",
-    "Pentesting/Reports/HTB Notes/Linux/1-Easy/!!Broker.md",
-    "Pentesting/Reports/HTB Notes/Linux/3-Hard/!!Cereal.md",
-    "Pentesting/Reports/HTB Notes/Windows/2-Medium/!!Intelligence.md",
-    "Pentesting/Reports/HTB Notes/Windows/3-Hard/!!Blackfield.md",
-    "Pentesting/Reports/HTB Notes/Windows/2-Medium/!!Bart.md",
-    "Pentesting/Reports/HTB Notes/Windows/1- Easy/!!Support.md",
     "Pentesting/Reports/HTB Notes/Windows/3-Hard/!!Flight.md",
-    "Pentesting/Reports/HTB Notes/Windows/3-Hard/!!Tally.md",
-    "Pentesting/Reports/HTB Notes/Windows/1- Easy/!!Servmon.md",
-    "Pentesting/Reports/HTB Notes/Windows/1- Easy/Granny.md",
-    "Pentesting/Reports/HTB Notes/Windows/1- Easy/Jerry.md",
-    "Pentesting/Reports/HTB Notes/Windows/1- Easy/Legacy.md",
-    "Pentesting/Reports/HTB Notes/Windows/1- Easy/Optimum.md",
+    "Pentesting/Reports/HTB Notes/Windows/3-Hard/!!Blackfield.md",
+    "Pentesting/Reports/HTB Notes/Windows/1- Easy/Forest.md",
     "Pentesting/Reports/HTB Notes/Windows/1- Easy/Active.md",
+    "Pentesting/Reports/HTB Notes/Linux/3-Hard/!!Intentions.md",
+    "Pentesting/Reports/HTB Notes/Linux/3-Hard/!!Cereal.md",
     "Pentesting/Reports/HTB Notes/Linux/1-Easy/Pandora.md",
-    "Pentesting/Reports/HTB Notes/Linux/1-Easy/Nibbles.md",
-    "Pentesting/Reports/HTB Notes/Linux/1-Easy/Bashed.md",
     "Pentesting/Reports/OSCP/Challenge Labs/Relia/Internal",
     "Pentesting/Reports/OSCP/Challenge Labs/Relia/DMZ",
     "Pentesting/Reports/OSCP/Challenge Labs/Relia",
