@@ -8,31 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e4f2256aad9b93ea",
+            "id": "4b1f447ecd96a40e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pentesting/Learning Notes/SQL Injection.md",
+                "file": "Pentesting/Learning Notes/Tools.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "eb58337b4e75964a",
+            "id": "8c051912c643eda8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pentesting/Reports/HTB Notes/Windows/2-Medium/Jeeves.md",
+                "file": "Pentesting/Learning Notes/AD Tools.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "931a0832231a3ce4",
+            "id": "362af1041ce9ee6e",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -43,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -109,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pentesting/Learning Notes/SQL Injection.md"
+                "file": "Pentesting/Learning Notes/Techniques.md"
               }
             }
           },
@@ -130,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pentesting/Learning Notes/SQL Injection.md",
+                "file": "Pentesting/Learning Notes/Techniques.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pentesting/Learning Notes/SQL Injection.md",
+                "file": "Pentesting/Learning Notes/Techniques.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -181,54 +182,54 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e4f2256aad9b93ea",
+  "active": "362af1041ce9ee6e",
   "lastOpenFiles": [
-    "Pentesting/Reports/OSCP/Challenge Labs/OSCP B/AD/Attack Path.md",
-    "Pentesting/Learning Notes/Techniques.md",
-    "Pentesting/Reports/HTB Notes/Windows/2-Medium/Jeeves.md",
-    "Pentesting/Reports/HTB Notes/Windows/2-Medium/!!StreamIO.md",
-    "Pentesting/Reports/HTB Notes/Windows/2-Medium/!!Intelligence.md",
-    "Pentesting/Reports/HTB Notes/Linux/2-Medium/!!Hawk.md",
-    "Pentesting/Reports/HTB Notes/Linux/2-Medium/!October.md",
-    "Pentesting/Reports/HTB Notes/Linux/2-Medium/!!DevOops.md",
-    "Pentesting/Reports/HTB Notes/Windows/1- Easy/!!Support.md",
-    "Pentesting/Reports/HTB Notes/Windows/1- Easy/!!Servmon.md",
-    "Pentesting/Learning Notes/AD Tools.md",
     "Pentesting/Learning Notes/Tools.md",
-    "Pentesting/Reports/OSCP/Challenge Labs/OSCP B/AD/Situational Awareness.md",
-    "Pentesting/Reports/HTB Notes/Windows/2-Medium/Escape.md",
-    "Pentesting/Reports/HTB Notes/Linux/1-Easy/Broker.md",
-    "Pasted image 20240305152304.png",
-    "Pasted image 20240305133555.png",
-    "Pasted image 20240305133355.png",
-    "Pasted image 20240305131956.png",
-    "Pasted image 20240305131823.png",
-    "Pasted image 20240305131223.png",
-    "Pentesting/Reports/HTB Notes/Linux/1-Easy/Bashed.md",
-    "Pentesting/Reports/HTB Notes/Template.md",
-    "Pentesting/Reports/HTB Notes/Linux/1-Easy/Busqueda.md",
-    "Pentesting/Learning Notes/SQL Injection.md",
-    "Screenshots/Pasted image 20240304155945.png",
-    "Screenshots/Pasted image 20240304152435.png",
-    "Screenshots/Pasted image 20240304152150.png",
-    "Screenshots/Pasted image 20240304124439.png",
-    "Pentesting/Reports/HTB Notes/Windows/3-Hard/!!Flight.md",
-    "Pentesting/Reports/HTB Notes/Windows/3-Hard/!!Blackfield.md",
-    "Pentesting/Reports/HTB Notes/Windows/1- Easy/Forest.md",
-    "Pentesting/Reports/HTB Notes/Windows/1- Easy/Active.md",
-    "Pentesting/Reports/HTB Notes/Linux/3-Hard/!!Intentions.md",
-    "Pentesting/Reports/HTB Notes/Linux/3-Hard/!!Cereal.md",
+    "Pentesting/Learning Notes/AD Tools.md",
+    "Pentesting/Learning Notes/Techniques.md",
+    "Pentesting/Reports/OSCP/Challenge Labs/Medtech/Internal/83.md",
+    "Pentesting/Reports/OSCP/Challenge Labs/OSCP C/AD/Attack Path.md",
+    "Pentesting/Reports/OSCP/Challenge Labs/OSCP C/AD/Situational Awareness.md",
+    "Pasted image 20240314000412.png",
+    "Pasted image 20240314000326.png",
+    "Pasted image 20240313235802.png",
+    "Screenshots/Pasted image 20240313142936.png",
+    "Screenshots/Pasted image 20240313183140.png",
+    "Screenshots/Pasted image 20240313182814.png",
+    "Screenshots/Pasted image 20240313182548.png",
+    "Screenshots/Pasted image 20240313182517.png",
+    "Screenshots/Pasted image 20240313182515.png",
+    "Screenshots/Pasted image 20240313182337.png",
+    "Pentesting/Template.md",
+    "Pentesting/Reports/OSCP/Challenge Labs/Relia/Situational Awareness.md",
+    "Pentesting/Reports/OSCP/Challenge Labs/OSCP C/Standalone/157.md",
+    "Pentesting/Reports/OSCP/Challenge Labs/OSCP C/Standalone/156.md",
+    "Pentesting/Reports/OSCP/Challenge Labs/Skylark/DMZ/225.md",
+    "Pentesting/Reports/HTB Notes/Linux/2-Medium/TartarSauce.md",
+    "Pentesting/Reports/HTB Notes/Linux/2-Medium/SolidState.md",
+    "Pentesting/Reports/HTB Notes/Linux/2-Medium/Poison.md",
+    "Pentesting/Reports/HTB Notes/Linux/2-Medium/Node.md",
+    "Pentesting/Reports/HTB Notes/Linux/2-Medium/Nineveh.md",
+    "Pentesting/Reports/HTB Notes/Linux/1-Easy/Sense.md",
     "Pentesting/Reports/HTB Notes/Linux/1-Easy/Pandora.md",
+    "Pentesting/Reports/HTB Notes/Linux/1-Easy/Nibbles.md",
+    "Pentesting/Reports/HTB Notes/Linux/1-Easy/Lame.md",
+    "Pentesting/Reports/OSCP/Challenge Labs/OSCP C/Standalone/155.md",
+    "Pentesting/Reports/OSCP/Challenge Labs/Skylark/Situational Awareness.md",
+    "Pentesting/Reports/OSCP/Challenge Labs/Skylark/DMZ/223.md",
+    "Pentesting/Reports/OSCP/Challenge Labs/Skylark/DMZ/221.md",
+    "Pentesting/Reports/OSCP/Challenge Labs/Skylark/DMZ/226.md",
+    "Pentesting/Reports/OSCP/Challenge Labs/OSCP A/Standalone/143.md",
+    "Pentesting/Reports/OSCP/Challenge Labs/OSCP C/AD/Untitled",
+    "Pentesting/Reports/OSCP/Challenge Labs/OSCP C/AD",
+    "Pentesting/Reports/OSCP/Challenge Labs/OSCP C/Standalone",
+    "Pentesting/Reports/OSCP/Challenge Labs/OSCP C",
+    "Pentesting/Reports/OSCP/Challenge Labs/Skylark/Internal",
+    "Pentesting/Reports/OSCP/Challenge Labs/Skylark/DMZ",
+    "Pentesting/Reports/OSCP/Challenge Labs/Skylark",
     "Pentesting/Reports/OSCP/Challenge Labs/Relia/Internal",
     "Pentesting/Reports/OSCP/Challenge Labs/Relia/DMZ",
     "Pentesting/Reports/OSCP/Challenge Labs/Relia",
-    "Pentesting/Reports/OSCP/Challenge Labs/OSCP B/AD",
-    "Pentesting/Reports/OSCP/Challenge Labs/OSCP B/Standalone",
-    "Pentesting/Reports/OSCP/Challenge Labs/OSCP B",
-    "Pentesting/Reports/OSCP/Challenge Labs/OSCP A/AD/142",
-    "Pentesting/Reports/OSCP/Challenge Labs/OSCP A/Standalone",
-    "Pentesting/Reports/OSCP/Challenge Labs/OSCP A/AD",
-    "Pentesting/Reports/OSCP/Challenge Labs/OSCP A",
     "Untitled.canvas"
   ]
 }
