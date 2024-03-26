@@ -8,43 +8,55 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4b1f447ecd96a40e",
+            "id": "fa86978f063504d1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pentesting/Learning Notes/Tools.md",
+                "file": "Pentesting/Tools.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "8c051912c643eda8",
+            "id": "d95d6575a27f7678",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pentesting/Learning Notes/AD Tools.md",
+                "file": "Pentesting/AD Tools.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "362af1041ce9ee6e",
+            "id": "e8404432a8e2a700",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pentesting/Learning Notes/Techniques.md",
+                "file": "Pentesting/Techniques.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a19e55dc4362cce9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pentesting/Reports/OSCP/PG/Linux/BlackGate.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -73,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "\"Pasted image 20240315122724.png\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -110,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pentesting/Learning Notes/Techniques.md"
+                "file": "Pentesting/Reports/OSCP/PG/Linux/BlackGate.md"
               }
             }
           },
@@ -131,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pentesting/Learning Notes/Techniques.md",
+                "file": "Pentesting/Reports/OSCP/PG/Linux/BlackGate.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pentesting/Learning Notes/Techniques.md",
+                "file": "Pentesting/Reports/OSCP/PG/Linux/BlackGate.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,54 +194,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "362af1041ce9ee6e",
+  "active": "a19e55dc4362cce9",
   "lastOpenFiles": [
-    "Pentesting/Learning Notes/Tools.md",
-    "Pentesting/Learning Notes/AD Tools.md",
-    "Pentesting/Learning Notes/Techniques.md",
-    "Pentesting/Reports/OSCP/Challenge Labs/Medtech/Internal/83.md",
-    "Pentesting/Reports/OSCP/Challenge Labs/OSCP C/AD/Attack Path.md",
-    "Pentesting/Reports/OSCP/Challenge Labs/OSCP C/AD/Situational Awareness.md",
-    "Pasted image 20240314000412.png",
-    "Pasted image 20240314000326.png",
-    "Pasted image 20240313235802.png",
-    "Screenshots/Pasted image 20240313142936.png",
-    "Screenshots/Pasted image 20240313183140.png",
-    "Screenshots/Pasted image 20240313182814.png",
-    "Screenshots/Pasted image 20240313182548.png",
-    "Screenshots/Pasted image 20240313182517.png",
-    "Screenshots/Pasted image 20240313182515.png",
-    "Screenshots/Pasted image 20240313182337.png",
+    "Pentesting/Techniques.md",
+    "Pentesting/AD Tools.md",
+    "Pasted image 20240325174828.png",
+    "Pasted image 20240325131405.png",
+    "Pasted image 20240325131401.png",
+    "Pasted image 20240325131126.png",
+    "Pentesting/Reports/OSCP/PG/Windows/!Heist.md",
+    "Pentesting/Reports/OSCP/PG/Windows/!Craft.md",
+    "Pentesting/Reports/OSCP/PG/Windows/!Craft2.md",
+    "Pentesting/Reports/OSCP/PG/Linux/BlackGate.md",
+    "Pentesting/Reports/OSCP/PG/Linux/!Zipper.md",
     "Pentesting/Template.md",
-    "Pentesting/Reports/OSCP/Challenge Labs/Relia/Situational Awareness.md",
-    "Pentesting/Reports/OSCP/Challenge Labs/OSCP C/Standalone/157.md",
-    "Pentesting/Reports/OSCP/Challenge Labs/OSCP C/Standalone/156.md",
-    "Pentesting/Reports/OSCP/Challenge Labs/Skylark/DMZ/225.md",
-    "Pentesting/Reports/HTB Notes/Linux/2-Medium/TartarSauce.md",
-    "Pentesting/Reports/HTB Notes/Linux/2-Medium/SolidState.md",
-    "Pentesting/Reports/HTB Notes/Linux/2-Medium/Poison.md",
-    "Pentesting/Reports/HTB Notes/Linux/2-Medium/Node.md",
-    "Pentesting/Reports/HTB Notes/Linux/2-Medium/Nineveh.md",
-    "Pentesting/Reports/HTB Notes/Linux/1-Easy/Sense.md",
-    "Pentesting/Reports/HTB Notes/Linux/1-Easy/Pandora.md",
-    "Pentesting/Reports/HTB Notes/Linux/1-Easy/Nibbles.md",
-    "Pentesting/Reports/HTB Notes/Linux/1-Easy/Lame.md",
-    "Pentesting/Reports/OSCP/Challenge Labs/OSCP C/Standalone/155.md",
-    "Pentesting/Reports/OSCP/Challenge Labs/Skylark/Situational Awareness.md",
-    "Pentesting/Reports/OSCP/Challenge Labs/Skylark/DMZ/223.md",
-    "Pentesting/Reports/OSCP/Challenge Labs/Skylark/DMZ/221.md",
-    "Pentesting/Reports/OSCP/Challenge Labs/Skylark/DMZ/226.md",
-    "Pentesting/Reports/OSCP/Challenge Labs/OSCP A/Standalone/143.md",
+    "Pentesting/Reports/OSCP/PG/Linux/!Clue.md",
+    "Screenshots/Pasted image 20240323171356.png",
+    "Pentesting/Reports/OSCP/PG/Linux/Marshalled.md",
+    "Pentesting/Reports/OSCP/PG/Linux/Boolean.md",
+    "Screenshots/Pasted image 20240324154624.png",
+    "Pentesting/Tools.md",
+    "Pentesting/Reports/OSCP/PG/Linux/Educated.md",
+    "Pentesting/Reports/OSCP/PG/Windows/Resourced.md",
+    "Screenshots/Pasted image 20240324152729.png",
+    "Screenshots/Pasted image 20240324152417.png",
+    "Screenshots/Pasted image 20240324152416.png",
+    "Screenshots/Pasted image 20240324151722.png",
+    "Pentesting/Reports/OSCP/PG/Windows/Jacko.md",
+    "Pentesting/Reports/OSCP/PG/Windows/Hutch.md",
+    "Pentesting/Reports/OSCP/PG/Windows/Authby.md",
+    "Pentesting/Reports/OSCP/PG/Windows/Access.md",
+    "Pentesting/Reports/OSCP/PG/Linux/Extplorer.md",
+    "Pentesting/Reports/HTB Notes/Windows/2-Medium/Silo.md",
+    "Pentesting/Reports/OSCP/PG/Linux/Cockpit.md",
+    "Pentesting/Reports/HTB Notes/Windows/2-Medium/StreamIO.md",
+    "Pentesting/Reports/HTB Notes/Windows/2-Medium/Jeeves.md",
+    "Pentesting/Reports/HTB Notes/Windows/2-Medium/Escape.md",
+    "Pentesting/Reports/HTB Notes/Windows/2-Medium/Bastard.md",
+    "Pentesting/Reports/OSCP/PG/Windows",
+    "Pentesting/Reports/OSCP/PG/Linux",
+    "Pentesting/Reports/OSCP/PG",
+    "open.url",
+    "Pentesting/Reports/OSCP/Failed/Standalone",
+    "Pentesting/Reports/OSCP/Failed/AD",
+    "Pentesting/Reports/OSCP/Failed",
     "Pentesting/Reports/OSCP/Challenge Labs/OSCP C/AD/Untitled",
     "Pentesting/Reports/OSCP/Challenge Labs/OSCP C/AD",
     "Pentesting/Reports/OSCP/Challenge Labs/OSCP C/Standalone",
-    "Pentesting/Reports/OSCP/Challenge Labs/OSCP C",
-    "Pentesting/Reports/OSCP/Challenge Labs/Skylark/Internal",
-    "Pentesting/Reports/OSCP/Challenge Labs/Skylark/DMZ",
-    "Pentesting/Reports/OSCP/Challenge Labs/Skylark",
-    "Pentesting/Reports/OSCP/Challenge Labs/Relia/Internal",
-    "Pentesting/Reports/OSCP/Challenge Labs/Relia/DMZ",
-    "Pentesting/Reports/OSCP/Challenge Labs/Relia",
     "Untitled.canvas"
   ]
 }
